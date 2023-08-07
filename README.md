@@ -1,2 +1,2 @@
-# lab-c
+# cLab
 The C projects to learn
